@@ -1,2 +1,2 @@
 # jumping-dinosaur
-A dinosaur obstacle inspired by the Chrome no internet dinosaur mini-game.
+A dinosaur obstacle inspired by the Google dinosaur mini-game.
